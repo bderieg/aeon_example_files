@@ -1,0 +1,7 @@
+directory = "output/sphgauss/search"
+parameter = "amplitude"
+parallel = 5
+start = 0.4
+end = 0.3
+max_depth = 100
+min_error = 1e-16
