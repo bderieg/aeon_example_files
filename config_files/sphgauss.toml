@@ -22,7 +22,6 @@ coarsen_error = 1e-10
 refine_error = 1e-6
 global = 2
 flag_interval = 20
-fix_grid = false
 
 [visualize]
 save_initial = false
