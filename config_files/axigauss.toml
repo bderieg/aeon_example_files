@@ -5,7 +5,7 @@ order = 4
 diss_order = 6
 
 [domain]
-radius = 48.0c
+radius = 48.0
 height = 48.0
 cell_size = 6
 cell_ghost = 3
